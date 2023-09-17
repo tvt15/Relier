@@ -1,0 +1,5 @@
+{
+    "jwt-secret": "bitchlasagna",
+    "openvidu-url": "https://meetcrescendo.me",
+    "openvidu-secret": "tanishq"
+}
